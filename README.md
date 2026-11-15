@@ -2,6 +2,12 @@
 
 **Monitor. Detect. Protect.**
 
+## 🌐 Live Application
+
+**Try CrewPulse:** https://crewpulse.streamlit.app/
+
+Explore the interactive astronaut health dashboard, switch between astronaut profiles, review mission-day readings, and inspect health trends and illustrative alerts.
+
 A simulated astronaut health monitoring and decision-support dashboard developed for the **2026 NASA Space Apps Challenge**.
 
 ## 🌌 About the Project
@@ -185,6 +191,23 @@ CrewPulse is not a medical device, does not provide medical diagnoses and does n
 ## 👥 Team
 
 Developed by a two-member team for the NASA Space Apps Challenge 2026.
+
+## 📸 Application Screenshots
+
+### Health Overview
+![CrewPulse Health Overview](screenshots/04-health-overview.png)
+
+### Heart Rate and Mission Dashboard
+![CrewPulse Dashboard](screenshots/05-dashboard-overview.png)
+
+### Temperature Trend
+![Temperature Trend](screenshots/06-temperature-trend.png)
+
+### Sleep Trend
+![Sleep Trend](screenshots/07-sleep-trend.png)
+
+### Wellness Trend
+![Wellness Trend](screenshots/08-wellness-trend.png)
 
 ## 🚀 Project Motto
 
